@@ -1,0 +1,10 @@
+var firstName;
+var lastName;
+var age;
+var adddress;
+var dateOfBirth;
+firstName="Barack";
+lastName="Obama";
+agr="55";
+dateOfBirth="10/19/1964";
+adddress='USA';
